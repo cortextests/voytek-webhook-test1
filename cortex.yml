@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Voytek CortexTest 3
+  title: Voytek CortexTest 4
   description: CortexTest A description xxx
   version: 1.0.0
   x-cortex-git:
