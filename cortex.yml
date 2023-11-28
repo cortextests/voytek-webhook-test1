@@ -6,7 +6,7 @@ info:
   x-cortex-git:
     github:
       repository: cortextests/voytek-webhook-test1
-  x-cortex-tag: voytek-webhook-test1
+  x-cortex-tag: haha-dummy-tag
   x-cortex-link:
   - url: https://github.com/cortextests/voytek-webhook-test1
     name: Github Repository
