@@ -1,0 +1,18 @@
+openapi: 3.0.0
+info:
+  title: Voytek CortexTest 4
+  description: CortexTest A description xxx
+  version: 1.0.0
+  x-cortex-git:
+    github:
+      repository: cortextests/voytek-webhook-test1
+  x-cortex-tag: haha-dummy-tag-nested
+  x-cortex-link:
+  - url: https://github.com/cortextests/voytek-webhook-test1
+    name: Github Repository
+    type: documentation
+  x-cortex-owners:
+  - type: SLACK
+    channel: engineering
+  - type: email
+    email: wojciech.garncarz@cortex.io
